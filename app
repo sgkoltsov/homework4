@@ -10,4 +10,6 @@ $app->add(new \App\SayHello());
 
 $app->add(new \App\Repeat());
 
+$app->add(new \App\SomeQuestions());
+
 $app->run();
